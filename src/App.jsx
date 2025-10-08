@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "./components/Navbar";
-import Filter from "./components/Filter";
 import MovieGrid from "./components/MovieGrid";
 import Pagination from "./components/Pagination";
 import MovieModal from "./components/MovieModal";
